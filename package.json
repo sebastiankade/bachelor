@@ -1,7 +1,6 @@
 {
     "name": "bachelor",
     "version": "0.1.0",
-    "private": "false",
     "description": "An empty promise based api framework.",
     "keywords": [
         "node",
