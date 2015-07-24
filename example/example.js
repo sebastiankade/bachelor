@@ -26,7 +26,7 @@
     // Setup Bachelor Api
     app.use('/', api.router().router);
 
-    api.route('/test', require('./controller.js'), {
+    api.route('/test', require('../stubController.js'), {
         '/one': {
             get: 'successObject'
         },
