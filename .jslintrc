@@ -1,0 +1,8 @@
+{
+    "node": true,
+    "nomen": true,
+    "regexp": true,
+    "newcap": true,
+    "predef": [
+    ]
+}

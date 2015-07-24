@@ -1,21 +1,23 @@
 {
-    "name": "bachelor",
-    "version": "0.1.0",
-    "description": "An empty promise based api framework.",
-    "keywords": [
-        "node",
-        "api",
-        "promise",
-        "rest"
-    ],
-    "homepage": "https://github.com/sebastiankade/bachelor",
-    "bugs": {
-        "url": "https://github.com/sebastiankade/bachelor",
-        "email": "sebastian@sumry.in"
-    },
-    "main": "lib/index.js",
-    "dependencies": {
-        "express": "^4.0.0"
-    },
-    "devDependencies": {}
+  "name": "bachelor",
+  "version": "0.1.1",
+  "description": "An empty promise based api framework.",
+  "keywords": [
+    "node",
+    "api",
+    "promise",
+    "rest"
+  ],
+  "homepage": "https://github.com/sebastiankade/bachelor",
+  "bugs": {
+    "url": "https://github.com/sebastiankade/bachelor",
+    "email": "sebastian@sumry.in"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "express": "^4.0.0",
+    "q": "^1.4.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
 }
